@@ -1,0 +1,3 @@
+git init // initialised the git repo
+git status // this will tell you the statusof all the folders and file
+git add // will add the file or folder or cmplte folder
