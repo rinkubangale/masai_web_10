@@ -2,6 +2,7 @@ git init // initialised the git repo
 git status // this will tell you the statusof all the folders and file
 git add // will add the file or folder or cmplte folder into repo
 git commit -m '' // mention the command you want to make
+git pull 
 git push origin master
 git branch // gives all branch and the branch you are in 
 changes
